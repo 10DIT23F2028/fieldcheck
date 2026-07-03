@@ -1,7 +1,6 @@
 # FieldCheck - Field Check-In App
 A Flutter mobile application for checking in at locations with photo capture, GPS coordinates, and local storage. Built as a technical test for a Flutter Mobile Developer Intern position.
 
-![FieldCheck App](screenshots/app_demo.gif)
 
 ## (1) FEATURES
 
@@ -42,5 +41,29 @@ A Flutter mobile application for checking in at locations with photo capture, GP
   ### Installation
     1. **Clone the repository**
       ```bash
-    git clone https://github.com/YOUR_USERNAME/fieldcheck.git
+    git clone https://github.com/10DIT23F2028/fieldcheck.git
     cd fieldcheck
+
+
+## (3) SCREENSHOTS
+  ### Empty State (No Check-ins)
+  ![Empty State](SCREENSHOTS/empty_state.png)
+
+  ### Home Screen with Check-ins
+  ![Home Screen](SCREENSHOTS/home_screen.png)
+
+  ### New Check-In Form
+  ![New Check-In](SCREENSHOTS/new_checkin.png)
+
+  ### Detail Screen
+  ![Detail Screen](SCREENSHOTS/detail_screen.png)
+
+  ### Photo Capture
+  ![Photo Capture](SCREENSHOTS/photo_capture.png)
+
+  ### GPS Location
+  ![GPS Location](SCREENSHOTS/gps_location.png)
+
+
+## (4) DEMO VIDEO
+![Demo](SCREENSHOTS/fieldcheck_demo_najwa.mp4)
