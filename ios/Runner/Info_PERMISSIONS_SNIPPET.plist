@@ -1,0 +1,10 @@
+<!--
+  Add these keys inside your ios/Runner/Info.plist, as children of the
+  top-level <dict>.
+-->
+
+<key>NSCameraUsageDescription</key>
+<string>FieldCheck needs camera access to take a photo for each check-in.</string>
+
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>FieldCheck needs your location to record where each check-in happened.</string>
