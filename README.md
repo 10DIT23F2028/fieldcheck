@@ -3,22 +3,21 @@ A Flutter mobile application for checking in at locations with photo capture, GP
 
 
 ## (1) FEATURES
-
   ### Completed Requirements
-      - [x] **Three Screens**: Home/History, New Check-In, and Detail view
-      - [x] **Home Screen**: Displays list of saved check-ins with thumbnail, note, and timestamp
-      - [x] **Empty State**: Shows when no check-ins exist
-      - [x] **New Check-In Screen**: 
-        - Note field with validation (required)
-        - Take Photo button with preview
-        - Get Location button showing latitude, longitude, and accuracy
-        - Loading state while fetching location
-        - Save button with validation
-      - [x] **Detail Screen**: Read-only view of a single record
-      - [x] **Red-White Theme**: Consistent branding throughout the app
-      - [x] **Refresh Button**: Manually refreshes the list
-      - [x] **Auto-save**: Data automatically persists on app close
-      - [x] **Permission Handling**: Graceful handling when permissions are denied
+      1. Three Screens : Home/History, New Check-In, and Detail view
+      2. Home Screen : Displays list of saved check-ins with thumbnail, note, and timestamp
+      3. Empty State : Shows when no check-ins exist
+      4. New Check-In Screen : 
+         - Note field with validation (required)
+         - Take Photo button with preview
+         - Get Location button showing latitude, longitude, and accuracy
+         - Loading state while fetching location
+         - Save button with validation
+      5. Detail Screen : Read-only view of a single record
+      6. Red-White Theme : Consistent branding throughout the app
+      7. Refresh Button : Manually refreshes the list
+      8. Auto-save : Data automatically persists on app close
+      9. Permission Handling : Graceful handling when permissions are denied
 
   ### Hardware Integration (via Flutter plugins)
       | Feature | Implementation | Plugin |
@@ -32,7 +31,6 @@ A Flutter mobile application for checking in at locations with photo capture, GP
 
 
 ## (2) GETTING STARTED
-
   ### Pre-requisites
     - Flutter SDK (>=3.0.0)
     - Android Studio / VS Code
@@ -66,4 +64,4 @@ A Flutter mobile application for checking in at locations with photo capture, GP
 
 
 ## (4) DEMO VIDEO
-![Demo](SCREENSHOTS/fieldcheck_demo_najwa.mp4)
+![Demo](https://github.com/10DIT23F2028/fieldcheck/blob/main/DEMO/fieldcheck_demo_najwa.gif)
