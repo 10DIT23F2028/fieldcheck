@@ -47,22 +47,22 @@ A Flutter mobile application for checking in at locations with photo capture, GP
 
 ## (3) SCREENSHOTS
   ### Empty State (No Check-ins)
-  ![Empty State](SCREENSHOTS/empty_state.png)
+  ![Empty State](https://github.com/10DIT23F2028/fieldcheck/blob/main/SCREENSHOTS/empty_state.jpeg)
 
   ### Home Screen with Check-ins
-  ![Home Screen](SCREENSHOTS/home_screen.png)
+  ![Home Screen](https://github.com/10DIT23F2028/fieldcheck/blob/main/SCREENSHOTS/home_screen.jpeg)
 
   ### New Check-In Form
-  ![New Check-In](SCREENSHOTS/new_checkin.png)
+  ![New Check-In](https://github.com/10DIT23F2028/fieldcheck/blob/main/SCREENSHOTS/new_check_in.jpeg)
 
   ### Detail Screen
-  ![Detail Screen](SCREENSHOTS/detail_screen.png)
+  ![Detail Screen](https://github.com/10DIT23F2028/fieldcheck/blob/main/SCREENSHOTS/detail_screen.jpeg)
 
   ### Photo Capture
-  ![Photo Capture](SCREENSHOTS/photo_capture.png)
+  ![Photo Capture](https://github.com/10DIT23F2028/fieldcheck/blob/main/SCREENSHOTS/photo_capture.jpeg)
 
   ### GPS Location
-  ![GPS Location](SCREENSHOTS/gps_location.png)
+  ![GPS Location](https://github.com/10DIT23F2028/fieldcheck/blob/main/SCREENSHOTS/gps_location.jpeg)
 
 
 ## (4) DEMO VIDEO
